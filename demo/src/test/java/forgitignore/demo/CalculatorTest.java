@@ -18,7 +18,7 @@ public class CalculatorTest {
 
         Calculator calculator = new Calculator();
 
-        assertEquals(-1, calculator.sub(4, 5));
+        assertEquals(-1, calculator.sub(7, 5));
 
     }
 }
